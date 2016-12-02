@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45c5e0f6-0564-4d38-902f-b02b42235c75" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/prod.exs" afterPath="$PROJECT_DIR$/config/prod.exs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/_build/dev/lib/ebin/" />
     <ignored path="$PROJECT_DIR$/_build/test/lib/ebin/" />
@@ -74,21 +73,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="prod.secret.exs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="prod.secret.exs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/prod.secret.exs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+              <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="prod.exs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="prod.exs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/prod.exs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="33" />
+            <state relative-caret-position="323">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -110,8 +109,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/config/prod.secret.exs" />
         <option value="$PROJECT_DIR$/config/prod.exs" />
+        <option value="$PROJECT_DIR$/config/prod.secret.exs" />
       </list>
     </option>
   </component>
@@ -829,12 +828,12 @@
       <option name="presentableId" value="Default" />
       <updated>1480710647633</updated>
       <workItem from="1480710649427" duration="207000" />
-      <workItem from="1480712997545" duration="460000" />
+      <workItem from="1480712997545" duration="716000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="667000" />
+    <option name="totallyTimeSpent" value="923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -899,18 +898,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/prod.secret.exs">
+    <entry file="file://$PROJECT_DIR$/config/prod.exs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        <state relative-caret-position="323">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/prod.exs">
+    <entry file="file://$PROJECT_DIR$/config/prod.secret.exs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="33" />
+        <state relative-caret-position="289">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           <folding />
         </state>
       </provider>
