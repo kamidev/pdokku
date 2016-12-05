@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kamidev/pdokku.svg?branch=master)](https://travis-ci.org/kamidev/pdokku)
+
 # Pdokku
 
 To start your Phoenix app:
